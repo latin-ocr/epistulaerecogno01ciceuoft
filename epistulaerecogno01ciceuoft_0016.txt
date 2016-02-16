@@ -1,0 +1,55 @@
+'SIGLA
+
+PER LIBROS 1·V111
+
+M = codex Mediceus 49. 9 saecl. ix
+
+llll = correctiones in M sactae a librariis ipsis
+
+Mc = correctiones in M inlatae per saccl. x-xii
+
+ΛΡ· = correctiones inlatae post 1389 quae coniecturarum
+loco habendae sunt
+
+G=codex Harleianus 2773 (olim Graevi primus)
+saecl. xii
+
+l? = codex Parisinus 17812 saecl. xii
+
+P = codex Mediceus 49. 7 ex M anno 1389 tran-
+scriptus
+
+J= fragmentum Hamburgense (ad v. 10 a. 1) circ.
+saecl. xii
+
+S = fragmentum Freierianum (ad ii. 1. 1) circ. saecl. xii
+
+7· == palimpsestus Taurinensis (ad vi. 9. 1) circ. saecl. vi
+
+codd. = consensus codicum MGR
+
+PER LIBROS IX—XVI
+ill, Alc, MV, ut supra
+
+H= codex Harieianus 2682 saecl. xi
+
+D = codex Palatinus 598 saecl. xv
+
+F= codex olim Erfurtensis, nunc Berolinensis 252
+saecl. xii, xiii*
+
+L = fragmentum Heilbronnense (ad xii. 19. 1) circ.
+saecl. xii
+
+codd. = consensus codicum MHD 3 ab xiii. 78 MHDF
+
+PER v‘rRAMQVE PARTEM
+
+N= editio Neapolitana 1474
+Crat. = Cratander 1528
+Vt'sl. = Victorius
+ΛῙαη. = Manutius
+Lamb. = Lambinus
+velt. = codices recentiores editoresve vetusti
+vulg. = scriptura in editionibus vulgata
+
